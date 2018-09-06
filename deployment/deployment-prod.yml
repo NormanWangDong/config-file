@@ -1,0 +1,9 @@
+mysql:
+  uri: localhost-prod
+  user: root-prod
+  password: root-prod
+  port: 3308
+
+user:
+  name: wangdong-prod
+  age: 31

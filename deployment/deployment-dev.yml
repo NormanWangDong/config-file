@@ -1,0 +1,9 @@
+mysql:
+  uri: localhost-dev
+  user: root-dev
+  password: root-dev
+  port: 3306
+
+user:
+  name: wangdong-dev
+  age: 29

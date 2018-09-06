@@ -1,0 +1,9 @@
+mysql:
+  uri: localhost-uat
+  user: root-uat
+  password: root-uat
+  port: 3307
+
+user:
+  name: wangdong-uat
+  age: 30
